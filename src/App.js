@@ -25,9 +25,7 @@ function App() {
     <BrowserRouter>
       <header>
         <div className="appHeader">
-          <GiBookCover className="icon" />
-          <p id="titleGroup">Good Books Choices</p>
-          <GiBookCover className="icon" />
+          <p id="titleGroup">Recomendation Books</p>
         </div>
       </header>
         <Routes>
