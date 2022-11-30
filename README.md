@@ -1,2 +1,2 @@
-# TA_MDP_Kanya
-Tugas Akhir Praktikum MDP - Kanya Azalia Andriyani - 21120119130063
+# TA_PPB_Atarika
+Tugas Akhir Praktikum PPB - Atarika Trimelfi Nofisa - 21120120140094
