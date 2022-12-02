@@ -1,0 +1,88 @@
+.containerBuku {
+    flex-direction: column;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background-color: #ea9a9f;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.containerRanking {
+    margin-bottom: 10px;
+    height: 75px;
+    width: 75px;
+    border-radius: 100%;
+    background-color: rgb(137, 44, 44);
+    border-style: double;
+    border-color: #ea9a9f;
+    border-width: 6px;
+}
+
+.containerDataBuku {
+    flex-direction: row;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    padding-top: 0px;
+}
+
+.containerStringBuku {
+    background-color: #e17f93;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 5px 10px 5px 10px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(137, 44, 44);
+}
+
+#rankingBuku {
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: "Cambria";
+    color: rgb(255, 255, 255);
+    margin-top: 18px;
+    margin-bottom: auto;
+}
+
+.sampulBuku {
+    object-fit: cover;
+    width: 150px;
+    margin-right: 20px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: rgb(137, 44, 44);
+}
+
+#ketBuku {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: "Cambria";
+    
+}
+
+#judulBuku {
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size:  18px;
+    font-style: italic;
+    font-family: "Cambria";
+}
+
+#penulisBuku {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: "Cambria";
+    
+}
+
+#penerbitBuku {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
